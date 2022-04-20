@@ -9,6 +9,7 @@ public class MyBootAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyBootAppApplication.class, args);
 		System.out.println("hello sravani");
+		System.out.println("from github changes done,every one do merge to local repo");
 	}
 
 }
